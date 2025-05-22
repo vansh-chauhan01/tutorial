@@ -1,2 +1,2 @@
 # tutorial
-learning github
+learning github.
